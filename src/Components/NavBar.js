@@ -57,6 +57,7 @@ const MenuList = [
   {
     icon: <ContactMail />,
     iconText: "Contact",
+    itemPath: "/contacts",
   },
 ];
 

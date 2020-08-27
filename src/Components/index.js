@@ -1,6 +1,6 @@
 import React from "react";
 import NavBar from "./NavBar";
-import Header from "./header";
+import Header from "./Header";
 import Particles from "react-particles-js";
 
 const Home = () => {
